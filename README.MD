@@ -19,9 +19,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um titulo de um ebook sobre o tema de java, o ebook é d nicho de progamaçãp e o subnicho é de java, o titulo deve ser épico e curto e tenha uma temática de otaku, me lista 5 variações de titulo                                                        |
-| conteúdo |Faça um texto para ebook, com foco em Java, listando os principais comando de Java com exemplos em código REGRAS: Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre traga exemplos de código em contextos reais; Crie um nome; Faça comandos para iniciantes
- |
+|  título  | Crie um titulo de um ebook sobre o tema de java, o ebook é d nicho de progamaçãp e o subnicho é de java, o titulo deve ser épico e curto e tenha uma temática de otaku, me lista 5 variações de titulo                                                                         |
+| conteúdo |Faça um texto para ebook, com foco em Java, listando os principais comando de Java com exemplos em código REGRAS: Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre traga exemplos de código em contextos reais; Crie um nome; Faça comandos para iniciantes |
 
 
 
@@ -36,8 +35,8 @@ ChatGPT：
 
 | Ação   | Prompt                                                       |
 | :----- | ------------------------------------------------------------ |
-| Título | a ninja vê a paisagem com o pôr do sol                        |
-| Título | a ninja nas sombras                                           |
+| Título | a ninja see the landscape with sunset                        |
+| Título | a ninja in the shadows                                       |
 
 ## ✨ Features
 
