@@ -11,6 +11,7 @@ seguem abaixo.
 - [Copilot](https://copilot.microsoft.com/onboarding) 
 - [DaVinci](https://davinci.ai/app)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Snappify](https://snappify.com/editor)
 
 ## 🧠 Prompts
 
@@ -41,7 +42,7 @@ DaVinci:
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Copilot e DaVinci
+- Imagens geradas via Copilot, DaVinci e Snappify
 
 ## 📚 Materiais
 
